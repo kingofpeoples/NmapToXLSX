@@ -35,5 +35,5 @@ python nmapToxlsx.py -t 127.0.0.1 -p 80 -nP "-Pn -sV" -o test.xlsx -r test.xml
 批量扫描：
 python nmapToxlsx.py -f url.txt -p 80 -nP "-Pn -sV" -o test.xlsx -r test.xml
 
-多个url:
+多个url.txt:
 python nmapToxlsx.py -td C:\test\nmapToxlsx\Targets -p 80 -nP "-Pn -sV"

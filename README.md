@@ -1,11 +1,11 @@
 # NmapToXLSX
 nmap scan and report to xlsx file
 
-实现nmap扫描并将扫描结果直接导出到xlsx文件
+（1）实现nmap扫描并将扫描结果直接导出到xlsx文件
 
-支持批量扫描，批量时每个txt文件导出一个xlsx
+（2）支持批量扫描，批量时每个txt文件导出一个xlsx
 
-支持件nmap扫描结果xml直接转xlsx
+（3）支持nmap扫描结果xml直接转xlsx
 
 需要：先在本地安装nmap,并添加环境变量/在nmapToxlsx.py将nmap改为物理路径\n
 ```

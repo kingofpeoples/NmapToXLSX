@@ -7,7 +7,7 @@ nmap scan and report to xlsx file
 
 支持件nmap扫描结果xml直接转xlsx
 
-必须：先在本地安装nmap,并添加环境变量/在nmapToxlsx.py将nmap改为物理路径\n
+需要：先在本地安装nmap,并添加环境变量/在nmapToxlsx.py将nmap改为物理路径\n
 ```
 usage:
 python nmapToxlsx.py -h
